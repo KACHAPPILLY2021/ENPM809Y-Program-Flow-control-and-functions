@@ -1,5 +1,6 @@
 # ENPM809Y-Program-Flow-control-and-functions
 In this project, the program takes input from the user and this inputs are passed to different functions.
+
 Scenario: An industrial robot is tasked to fill up boxes with parts.
           – All parts are of the same type.
           – Boxes come in four different sizes: Small (S), medium (M), large (L), and extra large (XL).
